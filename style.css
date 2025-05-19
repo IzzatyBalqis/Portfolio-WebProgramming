@@ -43,7 +43,7 @@ a {
 
 /* Header */
 .header-banner {
-    background-image: url('image/banner.webp');
+    background-image: url('imags/banner.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -73,7 +73,7 @@ header.scrolled {
 
 @font-face {
     font-family: 'DancingScript';
-    src: url('Dancing_Script/static/DancingScript-Regular.ttf') format('truetype');
+    src: url('Fonts/DancingScript-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
